@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": "aGlpg_H_ln6hWZ57qk9f1",
+      "name": "Test 100",
+      "color": "red",
+      "price": "12000",
+      "year": "1000"
+    },
+    {
+      "id": "uEu6WGLq5V50dfECN4ssm",
+      "name": "phone",
+      "color": "Blue",
+      "price": "200",
+      "year": "2009"
+    }
+  ]
+}
